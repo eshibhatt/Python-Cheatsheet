@@ -14,10 +14,16 @@ other mainstream languages. And putting it here will only confuse you.
 Nonetheless, I will create two more repos, to implement Data-structures and Algorithms in Python,
 respectively.
 
-
+Suggested flow of acquiring any programming language (in my opinion):
+1. Basics
+2. Flow of Control
+3. Loops
+4. Functions
+5. Objects & Classes
+6. Arrays
 
 For any other queries, feel free to contact me by the mediums below:
 
 LinkedIn: [Eshita Bhattacharjee](https://www.linkedin.com/in/eshita-bhattacharjee-148110202/)
 
-Twitter: [@eshitbhatt](https://twitter.com/EshiBhatt)
+Twitter: [@eshibhatt](https://twitter.com/EshiBhatt)
